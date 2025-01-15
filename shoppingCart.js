@@ -136,7 +136,7 @@ const ProductCatalog = {
 const pricingRules = [
     {
         type: 'buyXGetFreeY',
-        applicableTo: ['ult_small', 'ult_medium'], // Products this rule applies to
+        applicableTo: ['ult_small'], // Products this rule applies to
         x: 3, // Buy 3
         y: 1, // Get 1 free
     },
